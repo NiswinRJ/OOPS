@@ -1,0 +1,14 @@
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\bin\Debug\net8.0\Ex3-Airplane.exe
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\bin\Debug\net8.0\Ex3-Airplane.deps.json
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\bin\Debug\net8.0\Ex3-Airplane.runtimeconfig.json
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\bin\Debug\net8.0\Ex3-Airplane.dll
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\bin\Debug\net8.0\Ex3-Airplane.pdb
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.AssemblyInfoInputs.cache
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.AssemblyInfo.cs
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.csproj.CoreCompileInputs.cache
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.dll
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\refint\Ex3-Airplane.dll
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.pdb
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\Ex3-Airplane.genruntimeconfig.cache
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex3-Airplane\obj\Debug\net8.0\ref\Ex3-Airplane.dll

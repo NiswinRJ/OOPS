@@ -1,0 +1,14 @@
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\bin\Debug\net8.0\Ex1-Student.exe
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\bin\Debug\net8.0\Ex1-Student.deps.json
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\bin\Debug\net8.0\Ex1-Student.runtimeconfig.json
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\bin\Debug\net8.0\Ex1-Student.dll
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\bin\Debug\net8.0\Ex1-Student.pdb
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.AssemblyInfoInputs.cache
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.AssemblyInfo.cs
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.csproj.CoreCompileInputs.cache
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.dll
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\refint\Ex1-Student.dll
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.pdb
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\Ex1-Student.genruntimeconfig.cache
+C:\Users\aashik.robinson\Desktop\VS\Classes and Objects\Ex1-Student\obj\Debug\net8.0\ref\Ex1-Student.dll
