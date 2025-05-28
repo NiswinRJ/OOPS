@@ -1,0 +1,47 @@
+# Open the WSL terminal
+wsl
+
+# Create folder called LabExercise
+mkdir LabExercise
+
+# Rename the LabExercise directory to LabWork
+mv LabExercise LabWork
+
+# Move files form old_directory_name to new_directory_name
+mv old_directory_name/* new_directory_name
+
+# Update package lists using Linux Shell Commands
+sudo apt-get update
+
+# Upgrade packages using Linux Shell Commands
+sudo apt-get upgrade
+
+# Navigate to your project folder using Linux Shell Commands
+cd LabWork
+
+# Open and type vim to create or edit a file
+vim
+
+# Use Vim commands to edit and save the file
+i # enter insert mode
+# type your text
+Esc # exit insert mode
+:wq # save and quit
+
+# Use nano commands to edit and save the file
+nano
+# type your text
+Ctrl+X # exit
+Y # save
+
+# Open the folder in Visual Studio Code
+code .
+
+# Develop C# console code for displaying list of Employees data using .net Core 8.0
+dotnet new console -o Ex2-Mobile
+cd Ex2-Mobile
+dotnet add package System.Console
+dotnet run
+
+# List all files, including hidden ones using Linux Shell Commands
+ls -al
